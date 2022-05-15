@@ -3,12 +3,34 @@ import csv
 
 class Usuario:
     def __init__(self, name):
+        self.name = name
 
     def criacaoConta(self):
+        self.username = self.name[:3] 
 
     def savarInformacao(self):
+        with open("jogadores.txt", "r") as file:
+            fileReader = csv.reader(file)
+            #file = random.choice(list(file.fileInfo())) # randomizando perguntas
+            fileInfo = [info for info in fileReader if info != []]
+            fileInfo.append([self.username,  self.name])
+            #print(fileInfo)
     
     def iniciarjogo(self):
+        try:
+            userDifficulty = int(input("Escolha dificuldade:\n1.Fácil\n2.Médio\n3.Difícil\nResponda: "))
+            print()
+        except:
+            userDifficulty = 3
+            
+        userSubject = input("Escolha um assunto:\n1. Conhecimento Gerais \n2. Tecnologia\nResponda: ")
+        if userSubject == "1":
+            userSubject = "Conhecimento Gerais"
+        else:
+            userSubject = "Tecnologia"
+
+        quiz = quizJogo(userDifficulty, userSubject, self.username)
+        quiz.start(), quiz.checkAnswers()
 
 
 
