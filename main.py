@@ -102,6 +102,13 @@ class quizJogo:
             scoresReader = csv.reader(f)
             scores = [line for line in scoresReader if line != []]
 
+        scores.append([self.username, self.subject, self.difficulty, grade])
+
+        with open("scores.txt", "w") as f:
+            scoresWriter = csv.writer(f)
+            for info in scores:
+                scoresWriter.writerow(info)
+                
 def fileClear(file):
     with open("{}.txt".format(file), "w") as f:
         clear = csv.writer(f)
