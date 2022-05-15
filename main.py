@@ -108,7 +108,7 @@ class quizJogo:
             scoresWriter = csv.writer(f)
             for info in scores:
                 scoresWriter.writerow(info)
-                
+
 def fileClear(file):
     with open("{}.txt".format(file), "w") as f:
         clear = csv.writer(f)
@@ -123,3 +123,8 @@ def main():
     user.criacaoConta(), user.savarInformacao()
     #file = random.choice(list(file.fileInfo())) # randomizando perguntas
     user.iniciarjogo()
+    while True: user.iniciarjogo()# loop infinito
+
+main()
+
+    
