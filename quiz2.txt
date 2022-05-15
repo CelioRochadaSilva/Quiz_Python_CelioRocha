@@ -1,7 +1,6 @@
 Tecnologia
 
 1. O que é uma Memoria DDR2?
-
 a) Peça eletronica  utilizada em computadores criada em 2003. 
 b) Meio de comunicação entre os barramento de placa mãe.
 c) Sistema de comunicação atraves de cabeamento estruturado.
@@ -17,7 +16,6 @@ c) Duplicar
 
 
 3. Qual padrão conector para teeclado e monito?.
-
 a) USB e AGP
 b) PS/2 e HDMI
 c) DVI e VGA
@@ -25,7 +23,6 @@ c) DVI e VGA
 [fim perguntas]
 
 4. Qual das resposta a baixo é um padrão de linguagem de programação?
-
 a) Linux
 b) Html
 c) Python
@@ -33,7 +30,6 @@ c) Python
 [fim perguntas]
 
 5. O que é floppy disk?
-
 a) Programa utilizado em equipamentos de informática
 b) É um tipo de disco de armazenamento de informação
 c) Equipamento utilizado para controla entrada e saída de veículos
