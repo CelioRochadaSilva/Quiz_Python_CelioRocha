@@ -78,11 +78,9 @@ class quizJogo:
             except:
                 continue
                 
-        self.calcGrade(score) # parei aqui
+        self.calcGrade(score) 
 
-    def checkAnswers(self):
-        score = 0
-        respostas = []
+    
 
     def calcGrade(self, score):
         self.percentage = score*100/5
@@ -90,6 +88,14 @@ class quizJogo:
         print("Nome de usuário:", self.username)
         print("Você acertou {}/5".format(score))
         print("Você obteve {}% ".format(self.percentage))
+
+        for element in gradeTable:
+            done = False
+            if self.percentage < element:
+                grade = int(element/10)
+                print("Sua nota: {}".format(element/10))
+            
+        self.submitScore(grade) 
 
     def submitScore(self, grade):
         with open("scores.txt", "r") as f:
