@@ -30,7 +30,7 @@ class Usuario:
             userSubject = "Tecnologia"
 
         quiz = quizJogo(userDifficulty, userSubject, self.username)
-        quiz.start(), quiz.checkAnswers()
+        quiz.start(), quiz.checkAnswers()   
 
 
 
@@ -44,7 +44,20 @@ class quizJogo:
         self.username = username
 
     def start(self):
-        respostas = []
+        respostas = [] #esse answers
+        with open("{}.txt".format(self.fileName), "r") as f:
+            quizReader = csv.reader(f)
+            for line in quizReader:
+                if "{}".format(self.subject) in line:
+                    for line in quizReader:
+                        
+                        if "fim {}_quiz".format(self.subject) in line:
+                            break
+                        if "[fim perguntas]" in line:
+                            userRespostas = input("Digite sua resposta: ")
+                            self.userRespostas.append([userRespostas.lower()])
+                        
+                        print(*line)
 
     def checkAnswers(self):
         score = 0
