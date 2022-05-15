@@ -57,10 +57,28 @@ class quizJogo:
                             userRespostas = input("Digite sua resposta: ")
                             self.userRespostas.append([userRespostas.lower()])
                         
-                        print(*line)
+                        print(*line) 
 
     def checkAnswers(self):
-        score = 0
+        answers = []
+
+        with open("{}.txt".format(self.fileName), "r") as f:
+            quizReader = csv.reader(f)
+            for line in quizReader:
+                if "{}_respostas".format(self.subject) in line:
+                    for line in quizReader:
+                        if "fim {}_respostas".format(self.subject) in line:
+                            break
+                        answers.append(line)
+                        
+        for index in range(len(answers)):
+            try:
+                if answers[index] == self.userAnswers[index]:
+                    score += 1
+            except:
+                continue
+                
+        self.calcGrade(score) # parei aqui
 
     def checkAnswers(self):
         score = 0
