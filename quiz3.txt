@@ -1,1 +1,113 @@
-# inicio codificação
+Tecnologia
+
+1. O que é um robô?
+a) Equipamento eletrônico
+b) seriado de tv
+c) Equipamento de navegação
+d) Detector de metal
+
+[fim perguntas]
+
+2. O que é computador?
+
+a) Equipamento eletrônico que funciona também com software
+b) Máquina de lavar
+c) Equipamento utilizado terraplanagem
+d) Equipamento utilizado em navegação
+
+[fim perguntas]
+
+3. O que é uma CPU de computador?
+
+a) Central Processamento Unitário
+b) Disco de vinil
+c) Unidade Processadora
+d) Equipamento utilizado para tritura carne
+
+[fim perguntas]
+
+
+4. Qual das resposta a baixo é um sistema operacional?
+
+a) Linux
+b) Python
+c) Html
+d) bloco de notas
+
+[fim perguntas]
+
+5. O que é software?
+
+a) Programa utilizado em equipamentos de informática
+b) Máquina de corta grama
+c) Equipamento utilizado para controla entrada e saída de veículos
+d) Equipamento utilizado pra ajustar pneu e carro
+
+[fim perguntas]
+
+fim Tecnologia_quiz
+
+Tecnologia_respostas
+a
+b
+c
+d
+b
+fim Tecnologia_respostas
+
+Conhecimento Gerais
+
+1. Qual o resultado da soma de 1+1?
+
+a) 2
+b) 2.5
+c) 1
+d) 3
+
+[fim perguntas]
+
+2. Qual o resultado da subtração de 1-1?
+
+a) 2
+b) 0
+c) 1.5
+d) 3
+
+[fim perguntas]
+
+3. Qual resuldado de 1/1
+
+a) 2
+b) 1
+c) 1.2
+d) 0.5
+
+[fim perguntas]
+
+4. Qual resultado de 2*2 ?
+
+a) 3
+b) 2
+c) 4
+d) 6
+
+[fim perguntas]
+
+5. Qual resultado de 6+5?
+
+a) 11
+b) 13
+c) 11.5
+d) 12
+
+[fim perguntas]
+
+fim Conhecimento Gerais_quiz
+
+Conhecimento Gerais_respostas
+b
+a
+b
+a
+a
+fim Conhecimento Gerais_respostas
