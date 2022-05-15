@@ -1,1 +1,95 @@
-#inicio codificação
+Tecnologia
+
+1. O que é um robô?
+a) Equipamento eletrônico que também usa software
+b) Aparelho utilizado na agricultura.
+c) Equipamento para aferir pressão arterial.
+
+
+[fim perguntas]
+
+2. Quais das opções abaixo um computador também utiliza?
+a) Material para limpeza.
+b) Systema operacional.
+C) Sistema a oleo.
+
+
+[fim perguntas]
+
+3. O que é CPU ?
+a) Unidade de Central de Processamento.
+b) Memoria DDR2.
+c) Central de armazenamento de arquivo.
+
+[fim perguntas]
+
+4. Qual das opção abaixo é uma linguagem de programação?
+a) Linux.
+b) Python.
+c) Word.
+
+[fim perguntas]
+
+5. O que é bluetooth?
+a) Software criado pela Microsoft.
+b) Opção de transferência de arquivo entre computador e impressora.
+c) Sistema de comunicação sem fio de curta distância.
+
+[fim perguntas]
+
+fim Tecnologia_quiz
+
+Tecnologia_respostas
+a
+b
+a
+b
+c
+fim Tecnologia_respostas
+
+Conhecimento Gerais
+
+1. Qual o resultado da soma de 1+1?
+a) 2
+b) 1.2
+c) 3
+
+[fim perguntas]
+
+2. Qual o resultado da subtração de 1-1
+a) 2
+b) 0
+c) 1.5
+
+[fim perguntas]
+
+3. Qual o resultado da divisão de 1/1?
+a) 1
+b) 7
+c) 1
+
+[fim perguntas]
+
+4. Qual resultado de 2+1 ?
+a) 3
+b) 4
+c) 2
+
+[fim perguntas]
+
+5. Qual o resultado de 2*2 ?
+a) 6
+b) 3
+c) 4
+
+[fim perguntas]
+
+fim Conhecimento Gerais_quiz
+
+Conhecimento Gerais_respostas
+a
+b
+c
+a
+c
+fim Conhecimento Gerais_respostas
