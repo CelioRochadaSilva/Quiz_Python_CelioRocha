@@ -1,42 +1,80 @@
 Tecnologia
 
-1. O que é um robô?
+1. O que é uma Memoria DDR2?
 
-a) Equipamento eletrônico
-b) seriado de tv
-c) Equipamento de navegação
-
-[fim perguntas]
-
-2. O que é computador?
-
-a) Equipamento eletrônico que funciona também com software
-b) Máquina de lavar
-c) Equipamento utilizado terraplanagem
+a) Peça eletronica  utilizada em computadores criada em 2003. 
+b) Meio de comunicação entre os barramento de placa mãe.
+c) Sistema de comunicação atraves de cabeamento estruturado.
 
 [fim perguntas]
 
-3. O que é uma CPU de computador?
-
-a) Central Processamento Unitário
-b) Disco de vinil
-c) Unidade Processadora
+2. São opções existentes nos botões de controle das janelas do sistema Windows, exceto:
+a) Minimizar
+b) Restaurar
+c) Duplicar
 
 [fim perguntas]
 
-4. Qual das resposta a baixo é um sistema operacional?
+
+3. Qual padrão conector para teeclado e monito?.
+
+a) USB e AGP
+b) PS/2 e HDMI
+c) DVI e VGA
+
+[fim perguntas]
+
+4. Qual das resposta a baixo é um padrão de linguagem de programação?
 
 a) Linux
-b) Python
-c) Html
+b) Html
+c) Python
 
 [fim perguntas]
 
-5. O que é software?
+5. O que é floppy disk?
 
 a) Programa utilizado em equipamentos de informática
-b) Máguina de corta grama
+b) É um tipo de disco de armazenamento de informação
 c) Equipamento utilizado para controla entrada e saída de veículos
+
+[fim perguntas]
+
+
+6. O que é um malware?
+a) Cavalo de Tróia ou Trojan Horse é um tipo de programa malicioso
+b) Sistema de comunicação utilizado para capturar informações.
+c) Vírus é um software malicioso que age de forma autônoma.
+
+[fim perguntas]
+
+7. Qual o número máximo de planilhas em uma pasta de trabalho do Microsoft Excel?
+a) 122
+b) 16
+c) 255
+
+[fim perguntas]
+
+8. Qual a configuração minima de um computador para instalar windows 11?
+a) 4 GB de memoria e um processador de 1 gigahertz (GHz) com dois ou mais núcleos
+b) 8 GB de memoria e um processador de 1.6 gigahertz (GHz) com tres ou mais núcleos
+c) 2 GB de memoria e um processador de 1.6 gigahertz (GHz) com tres ou mais núcleos
+
+[fim perguntas]
+
+9. Qual a velocidade Max Turbo Core Speed do Processador AMD Ryzen™ Threadripper™ 1920X?
+a) 2 GHz
+b) 4 GHz
+c) 6 GHz
+
+
+[fim perguntas]
+
+10. Para salvar um novo documento no Microsoft Office Word, devemos :
+a) definir a pasta na qual o documento será gravado.
+b) definir a data de criação do documento.
+c) definir o tamanho com o qual o documento será salvo.
+
 
 [fim perguntas]
 
@@ -44,54 +82,106 @@ fim Tecnologia_quiz
 
 Tecnologia_respostas
 a
+c
 b
+c
+b
+a
 c
 a
 b
+a
+
+
 fim Tecnologia_respostas
 
 Conhecimento Gerais
 
-1. Qual o resultado da soma de 1+1?
-a) 2
-b) 2,5
-c) 1
+1. Quantos ossos tem no nosso corpo?
+a) 126
+b) 206
+c) 18
 
 [fim perguntas]
 
-2. Qual o resultado da subtração de 1-1?
-a) 2
-b) 0
-c) 1.5
+2. Qual o maior planeta do sistema solar?
+a) Marte
+b) Terra
+c) Júpiter
 
 [fim perguntas]
 
-3. Qual resuldado de 1/1
-a) 2
-b) 1
-c) 1.245
+3. Qual o planeta mais próximo do Sol?
+a) Mercúrio
+b) Júpiter
+c) Marte
 
 [fim perguntas]
 
-4. Qual resultado de 2*2 ?
-a) 3
-b) 2
-c) 4
+4. Quantos continentes existem?
+a) 6: América, Europa, África, Ásia, Oceania e Antártida 
+b) 5: América, Europa, África, Ásia e Oceania
+c) 4: América, Ásia, Oceania e Antártida 
+
+América, Europa, África, Ásia, Oceania e Antártida (ou Antártica).
 
 [fim perguntas]
 
-5. Qual resultado de 6+5?
-a) 11
-b) 13
-c) 11.5
+5. Qual a maior floresta tropical do mundo?
+a) Mata Atlântica
+b) Pantanal
+c) Floresta Amazônica
+
+[fim perguntas]
+
+6. Quais as duas línguas mais faladas no mundo?
+a) Inglês e espanhol
+b) Inglês e mandarim chinês    
+c) Mandarim chinês e francês
+
+[fim perguntas]
+
+7. Qual o monumento famoso pela sua inclinação?
+a) Torre Eiffel
+b) Estátua da Liberdade
+c) Torre de Pisa
+
+[fim perguntas]
+
+8. Que cidade brasileira é conhecida por chover todos os dias quase à mesma hora?
+a) Belém
+b) São Paulo
+c) Joinville
+
+[fim perguntas]
+
+9. Quantos andares tem o maior prédio do mundo?
+a) 100
+b) 200
+c) 163
+
+[fim perguntas]
+
+10. Em que país se anda mais de bicicleta?
+a) Portugal
+b) Países Baixos
+c) Mongólia
+
 
 [fim perguntas]
 
 fim Conhecimento Gerais_quiz
 
 Conhecimento Gerais_respostas
-a
 b
+c
 a
 a
+c
+b
+c
+a
+c
+b
+
 fim Conhecimento Gerais_respostas
