@@ -5,10 +5,10 @@ Projeto Jogo Quiz: Disciplina Programação, Aluno:Celio roca da Silva  LC1 Curs
 
 ### Se de alguma forma esse conteúdo te ajuda seja bem vindo!
 
-[PYTHON3](https://img.shields.io/badge/Python-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+[PYTHON3(https://img.shields.io/badge/Python-E34F26?style=for-the-badge&logo=html5&logoColor=white)]
 
 
-(https://img.shields.io/badge/Python-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 
 Jogo estilo Quiz Perguntas e resposta: projeto para disciplina PROGRAMAÇÃO 1
 
