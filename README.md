@@ -5,7 +5,9 @@ Projeto Jogo Quiz: Disciplina Programação, Aluno:Celio roca da Silva  LC1 Curs
 
 ### Se de alguma forma esse conteúdo te ajuda seja bem vindo!
 
-[PYTHON3(https://img.shields.io/badge/Python-E34F26?style=for-the-badge&logo=html5&logoColor=white)]
+
+[![PYTHON 3](https://img.shields.io/badge/python-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)]
+(https://img.shields.io/badge/Python-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 
 
