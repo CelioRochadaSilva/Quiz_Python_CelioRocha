@@ -8,10 +8,6 @@ Projeto Jogo Quiz: Disciplina Programação, Aluno:Celio roca da Silva  LC1 Curs
 
 ![PYTHON 3](https://img.shields.io/badge/python-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-
-
-
-
 Jogo estilo Quiz Perguntas e resposta: projeto para disciplina PROGRAMAÇÃO 1
 
 A funcionalidade do meu software é uma jogo criado no no Python 3
