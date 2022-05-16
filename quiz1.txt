@@ -1,20 +1,20 @@
 General Knowledge
 
-1. Qual o nome do Prefeito da cidade do Recife: Pernanbuco (2022)?
+1. Qual o nome do Prefeito da cidade do Recife: Pernambuco (2022)?
 a) João Campos
-b) Lupercio
+b) Lupércio
 
 
 [fim perguntas]
 
-2. Qual o nome do Prefeito da cidade de Olinda: Pernanbuco (2022)?
-a) João Camara
+2. Qual o nome do Prefeito da cidade de Olinda: Pernambuco (2022)?
+a) João Câmara
 b) Lupércio Carlos do Nascimento(Professor Lupercio)
 
 
 [fim perguntas]
 
-3. Qual o nome do governado estado de Pernabuco?
+3. Qual o nome do governador do estado de Pernambuco?
 a) Fátima Bezerra
 b) Paulo Henrique Saraiva Câmara
 
@@ -28,7 +28,7 @@ b) Luiz Inácio Lula da Silva
 
 [fim perguntas]
 
-5. Qual o nome do Ministro da Econômia em 2022?
+5. Qual o nome do Ministro da Economia em 2022?
 a) Dilma Vana Rousseff
 b) Paulo Roberto Nunes Guedes
 
@@ -57,8 +57,8 @@ b) México
 [fim perguntas]
 
 9. O que é mais pesado: 1 quilo de algodão ou 1 quilo de ferro?
-a) ambos tem o mesmo peso
-a) algodãob
+a) ambos têm o mesmo peso
+a) algodão
 
 
 [fim perguntas]
@@ -108,7 +108,7 @@ b) Central de armazenamento de arquivo.
 
 [fim perguntas]
 
-4. Qual das opção abaixo é uma linguagem de programação?
+4. Qual das opções abaixo é uma linguagem de programação?
 a) Linux.
 b) Python.
 
@@ -122,7 +122,7 @@ b) Equipamento utilizado em computador.
 [fim perguntas]
 
 6. O que é MP3 e Mp4?
-a) São dois tipos de equipamentos utilizado na agricultuta.
+a) São dois tipos de equipamentos utilizados na agricultura.
 b) São dois tipos de arquivos de computador.
 
 
@@ -136,7 +136,7 @@ b) Equipamento que ajuda na velocidade de acesso a internet.
 [fim perguntas]
 
 8. O que é cd rom ?
-a) É um periférico utilizado em computadores para ler cd de musica, jogo entre ouutros.
+a) É um periférico utilizado em computadores para ler cd de música, jogo entre outros.
 b) Equipamento que ajuda na velocidade de acesso a internet.
 
 [fim perguntas]
@@ -150,7 +150,7 @@ b) Equipamento que ajuda na velocidade de acesso a internet.
 
 10. O que é Wi-fi?
 a) Equipamento que ajuda na velocidade de acesso a internet.
-b) Sistema de comunição utilizado em celular.
+b) Sistema de comunicação utilizado em celular.
 
 
 [fim perguntas]
@@ -170,5 +170,3 @@ a
 b
 
 fim Technology_respostas
-
-

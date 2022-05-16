@@ -48,7 +48,7 @@ c) Açaí
 
 [fim perguntas]
 
-7. Em que ano foi realizado 1ª publicação no livro Guinsess book ?
+7. Em que ano foi realizada a 1ª  publicação no livro Guinness book ?
 a) 1955
 b) 1945
 c) 1915
@@ -72,7 +72,7 @@ c) Misoginia
 
 [fim perguntas]
 
-10. Que nome recebe quem tem medo de ficar próximo de pessoas pobre?
+10. Que nome recebe quem tem medo de ficar próximo de pessoas pobres?
 a) Prosofobia
 b) Niilismo
 c) Pecatofobia
@@ -110,7 +110,7 @@ c) 123456
 2. Qual foi o primeiro tweet da história?
 a) Estou preparando meu twitter.
 b) Ola , twitter.
-c) Ola , mundo.
+c) Olá , mundo.
 
 
 [fim perguntas]
@@ -127,7 +127,7 @@ c) 18 segundos
 4. Em média, quantas pesquisas totalmente novas são feitas no Google por dia?
 a) 450 milhões
 b) 1 bilhão 
-c) 280 milhoes
+c) 280 milhões
 
 
 [fim perguntas]
@@ -172,7 +172,7 @@ c)99.168.0.1
 
 [fim perguntas]
 
-10. Qual programa que monitora a navegação e exibir propagandas não solicitadas?
+10. Qual programa monitora a navegação e exibe propagandas não solicitadas?
 a) Worms
 b) Exploits
 c) Spywares

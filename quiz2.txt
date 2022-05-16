@@ -100,9 +100,9 @@ fim General Knowledge_respostas
 Technology
 
 1. O que é uma Memória DDR2?
-a) Peça eletronica  utilizada em computadores criada em 2003. 
-b) Meio de comunicação entre os barramento de placa mãe.
-c) Sistema de comunicação atraves de cabeamento estruturado.
+a) Peça eletrónica  utilizada em computadores criada em 2003. 
+b) Meio de comunicação entre os barramentos de placa mãe.
+c) Sistema de comunicação através de cabeamento estruturado.
 
 
 [fim perguntas]
@@ -116,7 +116,7 @@ c) Duplicar
 [fim perguntas]
 
 
-3. Qual padrão de conector para teclado e monito de computado?.
+3. Qual padrão de conector para teclado e monitor de computador?.
 a) USB e AGP
 b) PS/2 e HDMI
 c) DVI e VGA
@@ -124,7 +124,7 @@ c) DVI e VGA
 
 [fim perguntas]
 
-4. Qual das resposta a baixo é um padrão de linguagem de programação?
+4. Qual das respostas abaixo é um padrão de linguagem de programação?
 a) Linux
 b) Html
 c) Python
@@ -135,7 +135,7 @@ c) Python
 5. O que é floppy disk?
 a) Programa utilizado em equipamentos de informática
 b) É um tipo de disco de armazenamento de informação
-c) Equipamento utilizado para controla entrada e saída de veículos
+c) Equipamento utilizado para controlar entrada e saída de veículos
 
 
 [fim perguntas]
@@ -157,10 +157,10 @@ c) 255
 
 [fim perguntas]
 
-8. Qual a configuração minima de um computador para instalar windows 11?
-a) 4 GB de memoria e um processador de 1 gigahertz (GHz) com dois ou mais núcleos
-b) 8 GB de memoria e um processador de 1.6 gigahertz (GHz) com tres ou mais núcleos
-c) 2 GB de memoria e um processador de 1.6 gigahertz (GHz) com tres ou mais núcleos
+8. Qual a configuração mínima de um computador para instalar windows 11?
+a) 4 GB de memória e um processador de 1 gigahertz (GHz) com dois ou mais núcleos
+b) 8 GB de memória e um processador de 1.6 gigahertz (GHz) com três ou mais núcleos
+c) 2 GB de memória e um processador de 1.6 gigahertz (GHz) com três ou mais núcleos
 
 
 [fim perguntas]
