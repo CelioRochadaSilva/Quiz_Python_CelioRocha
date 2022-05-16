@@ -2,14 +2,16 @@ import csv
 import random
 
 import os
-print("\n" * os.get_terminal_size().lines)
+
+print("\n" * os.get_terminal_size().lines) # tem função de limpar tela do console
+
 
 class Usuario: # classe usuário do jogo
     def __init__(self, name): # função inicial
         self.name = name
      
     def criacaoConta(self): # criação da conta do jogador: faz id
-        self.username = self.name[:3] 
+        self.username = self.name[:40] # grava até 40 caracteres no arquivo: nome completa do jogador
         #print("Nome de usuário:", self.username)
             
     def savarInformacao(self):
@@ -20,36 +22,31 @@ class Usuario: # classe usuário do jogo
             fileInfo = [info for info in fileReader if info != []]
             fileInfo.append([self.username,  self.name])
             #print(fileInfo)
-
-        # with open("jogadores.txt", "a") as file:
-        #     fileWriter = csv.writer(file)
-        #     file = input('Digite sua pergunta')
-        #     for item in file:
-        #         fileWriter.writerow(item)
-        #         print(file)
     
-    # def fileCrud(fileN,R,W): # falta testar
-    #     with open("{}.txt", "a") as fileN:
-    #     fileN = open(input('Nome do arquivo a ser editado:'), 'r')
-    #     R = R.readlines()
-    #     W.append(input('Insira o texto:'))
-    #     R,W.close()
-
-      
 
 
     def iniciarjogo(self):
-        try:
-            userDifficulty = int(input("Escolha dificuldade:\n1.Fácil\n2.Médio\n3.Difícil\nResponda: "))
-            print()
-        except:
-            userDifficulty = 3
+        
+        
+        userDifficulty = int(input("Escolha dificuldade:\n1.Fácil\n2.Médio\n3.Difícil\nResponda: "))
+                
+        userDifficulty = 3
             
         userSubject = input("Escolha um assunto:\n1. Conhecimento Gerais \n2. Tecnologia\nResponda: ")
         if userSubject == "1":
-            userSubject = "Conhecimento Gerais"
+            userSubject = "General Knowledge"
+            quiz = quizJogo(userDifficulty, userSubject, self.username)
+            quiz.start(), quiz.checkAnswers()
+            return
+         
+        elif userSubject == "2":
+            userSubject = "Technology"
+            quiz = quizJogo(userDifficulty, userSubject, self.username)
+            quiz.start(), quiz.checkAnswers()
+            return
         else:
-            userSubject = "Tecnologia"
+            print("Opção invalida")
+                        
 
         quiz = quizJogo(userDifficulty, userSubject, self.username)
         quiz.start(), quiz.checkAnswers()
@@ -64,7 +61,7 @@ class quizJogo:
         self.username = username
         
     def start(self):
-        respostas = [] #esse answers
+        answers = [] #esse answers
         with open("{}.txt".format(self.fileName), "r") as f:
             quizReader = csv.reader(f)
             for line in quizReader:
@@ -79,11 +76,11 @@ class quizJogo:
                         
                         print(*line)
                         
-    def checkAnswers(self):
+    def checkAnswers(self): # função verificar as respostas
         score = 0
         answers = []
 
-        with open("{}.txt".format(self.fileName), "r") as f:
+        with open("{}.txt".format(self.fileName), "r") as f: # abre arquivo para leitura conforme opção selecionada
             quizReader = csv.reader(f)
             for line in quizReader:
                 if "{}_respostas".format(self.subject) in line:
@@ -94,22 +91,22 @@ class quizJogo:
                         
         for index in range(len(answers)):
             try:
-                if answers[index] == self.userAnswers[index]:
+                if answers[index] == self[index]:
                     score += 1
             except:
                 continue
                 
         self.calcGrade(score)
 
-    def calcGrade(self, score):
-        self.percentage = score*100/5
+    def calcGrade(self, score): # faz referencia ao scores dos jogadores , nome e percentual de acertos
+        self.percentage = score*100/10
         gradeTable = [50, 60, 70, 80, 90,100]
         print("Nome de usuário:", self.username)
         print("Você acertou {}/5".format(score))
         print("Você obteve {}% ".format(self.percentage))
           
 
-        for element in gradeTable:
+        for element in gradeTable: #funcionalidade para calcular quantidade de resposta em relação as prguntas 
             done = False
             if self.percentage < element:
                 grade = int(element/10)
@@ -118,22 +115,22 @@ class quizJogo:
         self.submitScore(grade) 
         
     
-    def submitScore(self, grade):
+    def submitScore(self, grade): # função responsavel funcinalidade arquivo scores apenas abre  para leitura e grava na memoria temporária do computado
         with open("scores.txt", "r") as f:
             scoresReader = csv.reader(f)
             scores = [line for line in scoresReader if line != []]
 
         scores.append([self.username, self.subject, self.difficulty, grade])
 
-        with open("scores.txt", "w") as f:
+        with open("scores.txt", "w") as f: # quando jogado informa nome o mesmo é gravado nessearquivo com seu score
             scoresWriter = csv.writer(f)
             for info in scores:
                 scoresWriter.writerow(info)
 
-def fileClear(file):
-    with open("{}.txt".format(file), "w") as f:
-        clear = csv.writer(f)
-        clear.writerow([])
+# def fileClear(file):
+#     with open("{}.txt".format(file), "w") as f:
+#         clear = csv.writer(f)
+#         clear.writerow([])
 
 def main():
     print('       Sejam bem Vindo(a)!')
@@ -149,5 +146,3 @@ def main():
 
 
 main() 
-
-    
