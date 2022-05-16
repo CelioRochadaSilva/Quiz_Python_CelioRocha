@@ -1,113 +1,185 @@
 Tecnologia
 
-1. O que é um robô?
-a) Equipamento eletrônico
-b) seriado de tv
-c) Equipamento de navegação
-d) Detector de metal
+1. Qual destes passwords foi o mais usado na internet?
+a) a1b1c3
+b) abcdef123
+c) 123456
 
 [fim perguntas]
 
-2. O que é computador?
-
-a) Equipamento eletrônico que funciona também com software
-b) Máquina de lavar
-c) Equipamento utilizado terraplanagem
-d) Equipamento utilizado em navegação
+2. Qual foi o primeiro tweet da história?
+a) Estou preparando meu twitter.
+b) Ola, twitter.
+c) Ola, mundo.
 
 [fim perguntas]
 
-3. O que é uma CPU de computador?
-
-a) Central Processamento Unitário
-b) Disco de vinil
-c) Unidade Processadora
-d) Equipamento utilizado para tritura carne
+3. Qual foi a duração do primeiro vídeo do Youtube?
+a) 3 minuto
+b) 1 minuto
+c) 18 segundos
 
 [fim perguntas]
 
 
-4. Qual das resposta a baixo é um sistema operacional?
-
-a) Linux
-b) Python
-c) Html
-d) bloco de notas
+4. Em média, quantas pesquisas totalmente novas são feitas no Google por dia?
+a) 450 milhões
+b) 1 bilhão 
+c) 280 milhoes
 
 [fim perguntas]
 
-5. O que é software?
-
-a) Programa utilizado em equipamentos de informática
-b) Máquina de corta grama
-c) Equipamento utilizado para controla entrada e saída de veículos
-d) Equipamento utilizado pra ajustar pneu e carro
+5. Qual foi a primeira rede social da história da internet?
+a) MySpace
+b) Orkut
+c) Classmate
 
 [fim perguntas]
+
+6. Quando foi criado o primeiro smartphone da história?
+a) 1994
+b) 2000
+c) 1998
+
+[fim perguntas]
+
+7. Qual a resolução de uma imagem Full HD?
+a) 1920 X 720
+b) 1920 X 1080
+c) 1920 X 1140
+
+[fim perguntas]
+
+8. Quantos bits cabem em um byte?
+a) 8 bits
+b) 1 bit
+c) 12 bits
+
+[fim perguntas]
+
+9. Qual dps endereços IP a seguir, qual faz parte de uma rede classe B?
+a)192.168.0.1
+b)190.168.0.1
+c)99.168.0.1
+
+[fim perguntas]
+
+10. Qual programa que monitora a navegação e exibir propagandas não solicitadas?
+a) Worms
+b) Exploits
+c) Spywares
+
+[fim perguntas]
+
 
 fim Tecnologia_quiz
 
 Tecnologia_respostas
+c
+a
+c
+a
+c
+a
+b
 a
 b
 c
-d
-b
+
 fim Tecnologia_respostas
 
 Conhecimento Gerais
 
-1. Qual o resultado da soma de 1+1?
-
-a) 2
-b) 2.5
-c) 1
-d) 3
+1. De onde é a invenção do chuveiro elétrico?
+a) França
+b) Inglaterra
+c) Brasil
 
 [fim perguntas]
 
-2. Qual o resultado da subtração de 1-1?
-
-a) 2
-b) 0
-c) 1.5
-d) 3
+2. Atualmente, quantos elementos químicos a tabela periódica possui?
+a) 113
+b) 118
+c) 109
 
 [fim perguntas]
 
-3. Qual resuldado de 1/1
+3. Quanto tempo a luz do Sol demora para chegar à Terra?
+a) 12 minutos
+b) 12 horas
+c) 8 minutos
 
-a) 2
-b) 1
-c) 1.2
-d) 0.5
-
-[fim perguntas]
-
-4. Qual resultado de 2*2 ?
-
-a) 3
-b) 2
-c) 4
-d) 6
 
 [fim perguntas]
 
-5. Qual resultado de 6+5?
+4. Qual destes países é transcontinental?
+a) Rússia
+b) Filipinas
+c) Marrocos
 
-a) 11
-b) 13
-c) 11.5
-d) 12
 
 [fim perguntas]
+
+5. Qual foi o recurso utilizado inicialmente pelo homem para explicar a origem das coisas?
+a) A Filosofia
+b) A Biologia
+c) A Mitologia
+
+
+[fim perguntas]
+
+6. Que fruto nasce da oliveira?
+a) Amêndoa
+b) Azeitona
+c) Açaí
+
+
+[fim perguntas]
+
+7. Em que ano foi realizado 1ª publicação no livro Guinsess book ?
+a) 1955
+b) 1945
+c) 1915
+
+
+[fim perguntas]
+
+8. O preconceito por etnia é o mesmo que?
+a) Racismo
+b) Niilismo
+c) Misoginia
+
+
+[fim perguntas]
+
+9. Qual das opções abaixo significa racismo contra mulher?
+a) Racismo pontual
+b) Niilismo
+c) Misoginia
+
+
+[fim perguntas]
+
+10. Que nome recebe quem tem medo de ficar próximo de pessoas pobre?
+a) Prosofobia
+b) Niilismo
+c) Pecatofobia
+
+[fim perguntas]
+
 
 fim Conhecimento Gerais_quiz
 
 Conhecimento Gerais_respostas
+c
+b
+c
+a
+c
 b
 a
-b
 a
+c
 a
+
 fim Conhecimento Gerais_respostas
