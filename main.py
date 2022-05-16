@@ -62,7 +62,7 @@ class quizJogo:
         
     def start(self):
         answers = [] #esse answers
-        with open("{}.txt".format(self.fileName), "r") as f:
+        with open("{}.txt".format(self.fileName), "r", encoding='utf-8') as f: # aqui
             quizReader = csv.reader(f)
             for line in quizReader:
                 if "{}".format(self.subject) in line:
@@ -80,7 +80,7 @@ class quizJogo:
         score = 0
         answers = []
 
-        with open("{}.txt".format(self.fileName), "r") as f: # abre arquivo para leitura conforme opção selecionada
+        with open("{}.txt".format(self.fileName), "r", encoding='utf-8') as f: # abre arquivo para leitura conforme opção selecionada
             quizReader = csv.reader(f)
             for line in quizReader:
                 if "{}_respostas".format(self.subject) in line:
