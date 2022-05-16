@@ -1,9 +1,91 @@
-Tecnologia
+General Knowledge
+
+1. Qual o nome do Prefeito da cidade do Recife: Pernanbuco (2022)?
+a) João Campos
+b) Lupercio
+
+
+[fim perguntas]
+
+2. Qual o nome do Prefeito da cidade de Olinda: Pernanbuco (2022)?
+a) João Camara
+b) Lupércio Carlos do Nascimento(Professor Lupercio)
+
+
+[fim perguntas]
+
+3. Qual o nome do governado estado de Pernabuco?
+a) Fátima Bezerra
+b) Paulo Henrique Saraiva Câmara
+
+[fim perguntas]
+
+4. Qual o nome do presidente do Brasil em 2022?
+a) Jair M Bolsonaro
+b) Luiz Inácio Lula da Silva
+
+
+[fim perguntas]
+
+5. Qual o nome do Ministro da Econômia em 2022?
+a) Dilma Vana Rousseff
+b) Paulo Roberto Nunes Guedes
+
+[fim perguntas]
+
+6. Qual a montanha mais alta do mundo??
+a) Monte Everest
+b) Mauna Kea
+
+
+[fim perguntas]
+
+7. Onde se localiza Machu Picchu?
+a) Colômbia
+b) Peru
+
+
+[fim perguntas]
+
+8. Que país tem o formato de uma bota?
+a) Itália
+b) México
+
+[fim perguntas]
+
+9. O que é mais pesado: 1 quilo de algodão ou 1 quilo de ferro?
+a) ambos tem o mesmo peso
+a) algodãob
+
+[fim perguntas]
+
+10. Quem inventou a lâmpada?
+a) Steve Jobs
+b) Thomas Edison
+
+[fim perguntas]
+
+fim General Knowledge_quiz
+
+General Knowledge_respostas
+a
+b
+b
+a
+b
+a
+b
+a
+a
+b
+fim General Knowledge_respotas
+
+
+Technology
 
 1. O que é um robô?
 a) Equipamento eletrônico que também usa software
 b) Aparelho utilizado na agricultura.
-c) Equipamento para aferir pressão arterial.
 
 
 [fim perguntas]
@@ -11,57 +93,52 @@ c) Equipamento para aferir pressão arterial.
 2. Quais das opções abaixo um computador também utiliza?
 a) Material para limpeza.
 b) Pen drive.
-C) Gasolina como material para ajudar no resfriamento do processador.
 
 
 [fim perguntas]
 
 3. O que é CPU ?
 a) Unidade de Central de Processamento.
-b) Memoria DDR2.
-c) Central de armazenamento de arquivo.
+b) Central de armazenamento de arquivo.
 
 [fim perguntas]
 
 4. Qual das opção abaixo é uma linguagem de programação?
 a) Linux.
 b) Python.
-c) Word.
+
 
 [fim perguntas]
 
 5. O que é Teclado?
 a) Software criado pela Microsoft.
-b) Opção de transferência de arquivo entre computador e impressora.
-c) Equipamento utilizado em computador.
+b) Equipamento utilizado em computador.
 
 [fim perguntas]
 
 6. O que é MP3 e Mp4?
 a) São dois tipos de equipamentos utilizado na agricultuta.
 b) São dois tipos de arquivos de computador.
-c) São dois tipos de ferramentas utilizado na identificação de defeito em veiculos
+
+
+[fim perguntas]
 
 7. O que é mouse ?
 a) É um periférico utilizado em computadores.
 b) Equipamento que ajuda na velocidade de acesso a internet.
-c) Sistema de comunicação entre o computador e a internet.
 
 
 [fim perguntas]
 
 8. O que é cd rom ?
-a) Equipamento que ajuda na velocidade de acesso a internet.
-b) Sistema de comunicação entre o computador e a internet.
-c) É um periférico utilizado em computadores para ler cd de musica, jogo entre ouutros.
-
+a) É um periférico utilizado em computadores para ler cd de musica, jogo entre ouutros.
+b) Equipamento que ajuda na velocidade de acesso a internet.
 
 [fim perguntas]
 
 9. O que é mouse pad ?
-a) É um material utilizado em computadores.
+a) É um material utilizado com mouse em computadores .
 b) Equipamento que ajuda na velocidade de acesso a internet.
-c) Sistema de comunicação entre o computador e a internet.
 
 
 [fim perguntas]
@@ -69,111 +146,24 @@ c) Sistema de comunicação entre o computador e a internet.
 10. O que é Wi-fi?
 a) Equipamento que ajuda na velocidade de acesso a internet.
 b) Sistema de comunição utilizado em celular.
-c) Sistema de comunicação entre o computador e a internet.
 
 
 [fim perguntas]
 
+fim Technology_quiz
 
-fim Tecnologia_quiz
-
-Tecnologia_respostas
+Technology_respostas
 a
 b
 a
 b
-c
+b
 b
 a
-c
+a
 a
 b
 
-fim Tecnologia_respostas
+fim Technology_respostas
 
-Conhecimento Gerais
 
-1. Qual o nome do Prefeito da cidade do Recife: Pernanbuco (2022)?
-a) João Campos
-b) Lupercio
-c) João Camara
-
-[fim perguntas]
-
-2. Qual o nome do Prefeito da cidade de Olinda: Pernanbuco (2022)?
-a) João Camara
-b) Lupércio Carlos do Nascimento(Professor Lupercio)
-c) Álvaro Costa Dias
-
-[fim perguntas]
-
-3. Qual o nome do governado estado de Pernabuco?
-a) Fátima Bezerra
-b) João Azevêdo
-c) Paulo Henrique Saraiva Câmara
-
-[fim perguntas]
-
-4. Qual o nome do presidente do Brasil em 2022?
-a) Jair M Bolsonaro
-b) Luiz Inácio Lula da Silva
-c) Dilma Vana Rousseff
-
-[fim perguntas]
-
-5. Qual o nome do Ministro da Econômia em 2022?
-a) Dilma Vana Rousseff
-b) Luiz Inácio Lula da Silva
-c) Paulo Roberto Nunes Guedes
-
-[fim perguntas]
-
-6. Qual a montanha mais alta do mundo??
-a) Monte Everest
-b) Mauna Kea
-c) Monte Chimborazo
-
-[fim perguntas]
-
-7. Onde se localiza Machu Picchu?
-a) Colômbia
-b) Peru
-c) China
-
-[fim perguntas]
-
-8. Que país tem o formato de uma bota?
-a) Brasil
-b) México
-c) Itália
-
-[fim perguntas]
-
-9. O que é mais pesado: 1 quilo de algodão ou 1 quilo de ferro?
-a) ambos tem o mesmo peso
-a) algodãob
-c) ferro
-
-[fim perguntas]
-
-10. Quem inventou a lâmpada?
-a) Steve Jobs
-b) Henry Ford
-c) Thomas Edison
-
-[fim perguntas]
-
-fim Conhecimento Gerais_quiz
-
-Conhecimento Gerais_respostas
-a
-b
-c
-a
-c
-a
-b
-c
-a
-c
-fim Conhecimento Gerais_respostas

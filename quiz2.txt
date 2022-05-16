@@ -1,97 +1,4 @@
-Tecnologia
-
-1. O que é uma Memoria DDR2?
-a) Peça eletronica  utilizada em computadores criada em 2003. 
-b) Meio de comunicação entre os barramento de placa mãe.
-c) Sistema de comunicação atraves de cabeamento estruturado.
-
-[fim perguntas]
-
-2. São opções existentes nos botões de controle das janelas do sistema Windows, exceto:
-a) Minimizar
-b) Restaurar
-c) Duplicar
-
-[fim perguntas]
-
-
-3. Qual padrão conector para teeclado e monito?.
-a) USB e AGP
-b) PS/2 e HDMI
-c) DVI e VGA
-
-[fim perguntas]
-
-4. Qual das resposta a baixo é um padrão de linguagem de programação?
-a) Linux
-b) Html
-c) Python
-
-[fim perguntas]
-
-5. O que é floppy disk?
-a) Programa utilizado em equipamentos de informática
-b) É um tipo de disco de armazenamento de informação
-c) Equipamento utilizado para controla entrada e saída de veículos
-
-[fim perguntas]
-
-
-6. O que é um malware?
-a) Cavalo de Tróia ou Trojan Horse é um tipo de programa malicioso
-b) Sistema de comunicação utilizado para capturar informações.
-c) Vírus é um software malicioso que age de forma autônoma.
-
-[fim perguntas]
-
-7. Qual o número máximo de planilhas em uma pasta de trabalho do Microsoft Excel?
-a) 122
-b) 16
-c) 255
-
-[fim perguntas]
-
-8. Qual a configuração minima de um computador para instalar windows 11?
-a) 4 GB de memoria e um processador de 1 gigahertz (GHz) com dois ou mais núcleos
-b) 8 GB de memoria e um processador de 1.6 gigahertz (GHz) com tres ou mais núcleos
-c) 2 GB de memoria e um processador de 1.6 gigahertz (GHz) com tres ou mais núcleos
-
-[fim perguntas]
-
-9. Qual a velocidade Max Turbo Core Speed do Processador AMD Ryzen™ Threadripper™ 1920X?
-a) 2 GHz
-b) 4 GHz
-c) 6 GHz
-
-
-[fim perguntas]
-
-10. Para salvar um novo documento no Microsoft Office Word, devemos :
-a) definir a pasta na qual o documento será gravado.
-b) definir a data de criação do documento.
-c) definir o tamanho com o qual o documento será salvo.
-
-
-[fim perguntas]
-
-fim Tecnologia_quiz
-
-Tecnologia_respostas
-a
-c
-b
-c
-b
-a
-c
-a
-b
-a
-
-
-fim Tecnologia_respostas
-
-Conhecimento Gerais
+General Knowledge
 
 1. Quantos ossos tem no nosso corpo?
 a) 126
@@ -166,9 +73,9 @@ c) Mongólia
 
 [fim perguntas]
 
-fim Conhecimento Gerais_quiz
+fim General Knowledge_quiz
 
-Conhecimento Gerais_respostas
+General Knowledge_respostas
 b
 c
 a
@@ -180,4 +87,97 @@ a
 c
 b
 
-fim Conhecimento Gerais_respostas
+fim General Knowledge_respostas
+
+Technology
+
+1. O que é uma Memória DDR2?
+a) Peça eletronica  utilizada em computadores criada em 2003. 
+b) Meio de comunicação entre os barramento de placa mãe.
+c) Sistema de comunicação atraves de cabeamento estruturado.
+
+[fim perguntas]
+
+2. São opções existentes nos botões de controle das janelas do sistema Windows, exceto:
+a) Minimizar
+b) Restaurar
+c) Duplicar
+
+[fim perguntas]
+
+
+3. Qual padrão de conector para teclado e monito de computado?.
+a) USB e AGP
+b) PS/2 e HDMI
+c) DVI e VGA
+
+[fim perguntas]
+
+4. Qual das resposta a baixo é um padrão de linguagem de programação?
+a) Linux
+b) Html
+c) Python
+
+[fim perguntas]
+
+5. O que é floppy disk?
+a) Programa utilizado em equipamentos de informática
+b) É um tipo de disco de armazenamento de informação
+c) Equipamento utilizado para controla entrada e saída de veículos
+
+[fim perguntas]
+
+
+6. O que é um malware?
+a) Cavalo de Tróia ou Trojan Horse é um tipo de programa malicioso
+b) Sistema de comunicação utilizado para capturar informações.
+c) Vírus é um software malicioso que age de forma autônoma.
+
+[fim perguntas]
+
+7. Qual o número máximo de planilhas em uma pasta de trabalho do Microsoft Excel?
+a) 122
+b) 16
+c) 255
+
+[fim perguntas]
+
+8. Qual a configuração minima de um computador para instalar windows 11?
+a) 4 GB de memoria e um processador de 1 gigahertz (GHz) com dois ou mais núcleos
+b) 8 GB de memoria e um processador de 1.6 gigahertz (GHz) com tres ou mais núcleos
+c) 2 GB de memoria e um processador de 1.6 gigahertz (GHz) com tres ou mais núcleos
+
+[fim perguntas]
+
+9. Qual a velocidade Max Turbo Core Speed do Processador AMD Ryzen™ Threadripper™ 1920X?
+a) 2 GHz
+b) 4 GHz
+c) 6 GHz
+
+
+[fim perguntas]
+
+10. Para salvar um novo documento no Microsoft Office Word, devemos :
+a) definir a pasta na qual o documento será gravado.
+b) definir a data de criação do documento.
+c) definir o tamanho com o qual o documento será salvo.
+
+
+[fim perguntas]
+
+fim Technology_quiz
+
+Technology_respostas
+a
+c
+b
+c
+b
+a
+c
+a
+b
+a
+
+
+fim Technology_respostas

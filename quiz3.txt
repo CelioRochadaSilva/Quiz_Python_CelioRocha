@@ -1,94 +1,4 @@
-Tecnologia
-
-1. Qual destes passwords foi o mais usado na internet?
-a) a1b1c3
-b) abcdef123
-c) 123456
-
-[fim perguntas]
-
-2. Qual foi o primeiro tweet da história?
-a) Estou preparando meu twitter.
-b) Ola, twitter.
-c) Ola, mundo.
-
-[fim perguntas]
-
-3. Qual foi a duração do primeiro vídeo do Youtube?
-a) 3 minuto
-b) 1 minuto
-c) 18 segundos
-
-[fim perguntas]
-
-
-4. Em média, quantas pesquisas totalmente novas são feitas no Google por dia?
-a) 450 milhões
-b) 1 bilhão 
-c) 280 milhoes
-
-[fim perguntas]
-
-5. Qual foi a primeira rede social da história da internet?
-a) MySpace
-b) Orkut
-c) Classmate
-
-[fim perguntas]
-
-6. Quando foi criado o primeiro smartphone da história?
-a) 1994
-b) 2000
-c) 1998
-
-[fim perguntas]
-
-7. Qual a resolução de uma imagem Full HD?
-a) 1920 X 720
-b) 1920 X 1080
-c) 1920 X 1140
-
-[fim perguntas]
-
-8. Quantos bits cabem em um byte?
-a) 8 bits
-b) 1 bit
-c) 12 bits
-
-[fim perguntas]
-
-9. Qual dps endereços IP a seguir, qual faz parte de uma rede classe B?
-a)192.168.0.1
-b)190.168.0.1
-c)99.168.0.1
-
-[fim perguntas]
-
-10. Qual programa que monitora a navegação e exibir propagandas não solicitadas?
-a) Worms
-b) Exploits
-c) Spywares
-
-[fim perguntas]
-
-
-fim Tecnologia_quiz
-
-Tecnologia_respostas
-c
-a
-c
-a
-c
-a
-b
-a
-b
-c
-
-fim Tecnologia_respostas
-
-Conhecimento Gerais
+General Knowledge
 
 1. De onde é a invenção do chuveiro elétrico?
 a) França
@@ -168,9 +78,9 @@ c) Pecatofobia
 [fim perguntas]
 
 
-fim Conhecimento Gerais_quiz
+fim General Knowledge_quiz
 
-Conhecimento Gerais_respostas
+General Knowledge_respostas
 c
 b
 c
@@ -182,4 +92,94 @@ a
 c
 a
 
-fim Conhecimento Gerais_respostas
+fim General Knowledge_respostas
+
+Technology
+
+1. Qual destes passwords foi o mais usado na internet?
+a) a1b1c3
+b) abcdef123
+c) 123456
+
+[fim perguntas]
+
+2. Qual foi o primeiro tweet da história?
+a) Estou preparando meu twitter.
+b) Ola , twitter.
+c) Ola , mundo.
+
+[fim perguntas]
+
+3. Qual foi a duração do primeiro vídeo do Youtube?
+a) 3 minuto
+b) 1 minuto
+c) 18 segundos
+
+[fim perguntas]
+
+
+4. Em média, quantas pesquisas totalmente novas são feitas no Google por dia?
+a) 450 milhões
+b) 1 bilhão 
+c) 280 milhoes
+
+[fim perguntas]
+
+5. Qual foi a primeira rede social da história da internet?
+a) MySpace
+b) Orkut
+c) Classmate
+
+[fim perguntas]
+
+6. Quando foi criado o primeiro smartphone da história?
+a) 1994
+b) 2000
+c) 1998
+
+[fim perguntas]
+
+7. Qual a resolução de uma imagem Full HD?
+a) 1920 X 720
+b) 1920 X 1080
+c) 1920 X 1140
+
+[fim perguntas]
+
+8. Quantos bits cabem em um byte?
+a) 8 bits
+b) 1 bit
+c) 12 bits
+
+[fim perguntas]
+
+9. Qual dps endereços IP a seguir, qual faz parte de uma rede classe B?
+a)192.168.0.1
+b)190.168.0.1
+c)99.168.0.1
+
+[fim perguntas]
+
+10. Qual programa que monitora a navegação e exibir propagandas não solicitadas?
+a) Worms
+b) Exploits
+c) Spywares
+
+[fim perguntas]
+
+
+fim Technology_quiz
+
+Technology_respostas
+c
+a
+c
+a
+c
+a
+b
+a
+b
+c
+
+fim Technology_respostas
