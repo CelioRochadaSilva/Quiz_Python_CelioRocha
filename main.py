@@ -102,7 +102,7 @@ class quizJogo:
         self.percentage = score*100/10
         gradeTable = [50, 60, 70, 80, 90,100]
         print("Nome de usuário:", self.username)
-        print("Você acertou {}/5".format(score))
+        print("Você acertou {}/10".format(score))
         print("Você obteve {}% ".format(self.percentage))
           
 
