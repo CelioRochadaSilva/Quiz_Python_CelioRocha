@@ -3,7 +3,7 @@ Projeto Jogo Quiz: Disciplina Programação, Aluno:Celio roca da Silva  LC1 Curs
 
 <img src="https://github.com/CelioRochadaSilva/Quiz_Python_CelioRocha/blob/main/tela_inicial%20jogo.png" width="650" height="250"  align="center"/>
 
-### Se de alguma forma esse conteúdo te ajuda seja bem vindo!
+### Se de alguma forma esse conteúdo te ajudar. Seja bem vindo!
 
 
 ![PYTHON 3](https://img.shields.io/badge/python-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
