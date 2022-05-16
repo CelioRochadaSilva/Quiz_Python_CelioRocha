@@ -1,6 +1,5 @@
 import csv
-import random
-
+#import random
 import os
 
 print("\n" * os.get_terminal_size().lines) # tem função de limpar tela do console
@@ -62,10 +61,12 @@ class quizJogo:
         
     def start(self):
         answers = [] #esse answers
-        with open("{}.txt".format(self.fileName), "r", encoding='utf-8') as f: # aqui
+        with open("{}.txt".format(self.fileName), "r", encoding='utf-8') as f: 
             quizReader = csv.reader(f)
             for line in quizReader:
+
                 if "{}".format(self.subject) in line:
+                    
                     for line in quizReader:
                         
                         if "fim {}_quiz".format(self.subject) in line:
@@ -89,9 +90,9 @@ class quizJogo:
                             break
                         answers.append(line)
                         
-        for index in range(len(answers)):
+        for index in range(len(answers)): 
             try:
-                if answers[index] == self[index]:
+                if answers[index] == self[index]: #inclemento das respostas
                     score += 1
             except:
                 continue
@@ -100,7 +101,7 @@ class quizJogo:
 
     def calcGrade(self, score): # faz referencia ao scores dos jogadores , nome e percentual de acertos
         self.percentage = score*100/10
-        gradeTable = [50, 60, 70, 80, 90,100]
+        gradeTable = [50, 60, 70, 80, 90,100] # notas 
         print("Nome de usuário:", self.username)
         print("Você acertou {}/10".format(score))
         print("Você obteve {}% ".format(self.percentage))
@@ -110,7 +111,7 @@ class quizJogo:
             done = False
             if self.percentage < element:
                 grade = int(element/10)
-                print("Sua nota: {}".format(element/10))
+                print("Sua nota: {}".format(element/10)) #nota usuário
             
         self.submitScore(grade) 
         
@@ -139,7 +140,6 @@ def main():
     user = Usuario (input("\nDigite seu nome: "))
     print()
     user.criacaoConta(), user.savarInformacao()
-    #file = random.choice(list(file.fileInfo())) # randomizando perguntas
     user.iniciarjogo()
   
     while True: user.iniciarjogo()# loop infinito

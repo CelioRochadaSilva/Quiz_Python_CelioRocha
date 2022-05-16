@@ -5,12 +5,14 @@ a) 126
 b) 206
 c) 18
 
+
 [fim perguntas]
 
 2. Qual o maior planeta do sistema solar?
 a) Marte
 b) Terra
 c) Júpiter
+
 
 [fim perguntas]
 
@@ -19,14 +21,15 @@ a) Mercúrio
 b) Júpiter
 c) Marte
 
+
 [fim perguntas]
 
 4. Quantos continentes existem?
-a) 6: América, Europa, África, Ásia, Oceania e Antártida 
-b) 5: América, Europa, África, Ásia e Oceania
-c) 4: América, Ásia, Oceania e Antártida 
+a) 6: América, Europa, África, Ásia, Oceania e Antártida. 
+b) 5: América, Europa, África, Ásia e Oceania.
+c) 4: América, Ásia, Oceania e Antártida. 
 
-América, Europa, África, Ásia, Oceania e Antártida (ou Antártica).
+
 
 [fim perguntas]
 
@@ -35,12 +38,14 @@ a) Mata Atlântica
 b) Pantanal
 c) Floresta Amazônica
 
+
 [fim perguntas]
 
 6. Quais as duas línguas mais faladas no mundo?
 a) Inglês e espanhol
 b) Inglês e mandarim chinês    
 c) Mandarim chinês e francês
+
 
 [fim perguntas]
 
@@ -49,6 +54,7 @@ a) Torre Eiffel
 b) Estátua da Liberdade
 c) Torre de Pisa
 
+
 [fim perguntas]
 
 8. Que cidade brasileira é conhecida por chover todos os dias quase à mesma hora?
@@ -56,12 +62,14 @@ a) Belém
 b) São Paulo
 c) Joinville
 
+
 [fim perguntas]
 
 9. Quantos andares tem o maior prédio do mundo?
 a) 100
 b) 200
 c) 163
+
 
 [fim perguntas]
 
@@ -96,12 +104,14 @@ a) Peça eletronica  utilizada em computadores criada em 2003.
 b) Meio de comunicação entre os barramento de placa mãe.
 c) Sistema de comunicação atraves de cabeamento estruturado.
 
+
 [fim perguntas]
 
 2. São opções existentes nos botões de controle das janelas do sistema Windows, exceto:
 a) Minimizar
 b) Restaurar
 c) Duplicar
+
 
 [fim perguntas]
 
@@ -111,6 +121,7 @@ a) USB e AGP
 b) PS/2 e HDMI
 c) DVI e VGA
 
+
 [fim perguntas]
 
 4. Qual das resposta a baixo é um padrão de linguagem de programação?
@@ -118,12 +129,14 @@ a) Linux
 b) Html
 c) Python
 
+
 [fim perguntas]
 
 5. O que é floppy disk?
 a) Programa utilizado em equipamentos de informática
 b) É um tipo de disco de armazenamento de informação
 c) Equipamento utilizado para controla entrada e saída de veículos
+
 
 [fim perguntas]
 
@@ -133,6 +146,7 @@ a) Cavalo de Tróia ou Trojan Horse é um tipo de programa malicioso
 b) Sistema de comunicação utilizado para capturar informações.
 c) Vírus é um software malicioso que age de forma autônoma.
 
+
 [fim perguntas]
 
 7. Qual o número máximo de planilhas em uma pasta de trabalho do Microsoft Excel?
@@ -140,12 +154,14 @@ a) 122
 b) 16
 c) 255
 
+
 [fim perguntas]
 
 8. Qual a configuração minima de um computador para instalar windows 11?
 a) 4 GB de memoria e um processador de 1 gigahertz (GHz) com dois ou mais núcleos
 b) 8 GB de memoria e um processador de 1.6 gigahertz (GHz) com tres ou mais núcleos
 c) 2 GB de memoria e um processador de 1.6 gigahertz (GHz) com tres ou mais núcleos
+
 
 [fim perguntas]
 
