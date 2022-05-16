@@ -3,7 +3,10 @@ Projeto Jogo Quiz: Disciplina Programação, Aluno:Celio roca da Silva  LC1 Curs
 
 <img src="https://github.com/CelioRochadaSilva/Quiz_Python_CelioRocha/blob/main/tela_inicial%20jogo.png" width="650" height="250"  align="center"/>
 
-## Se de alguma forma esse conteúdo te ajuda seja bem vindo
+### Se de alguma forma esse conteúdo te ajuda seja bem vindo!
+
+<https://img.shields.io/badge/Python-E34F26?style=for-the-badge&logo=html5&logoColor=white>
+
 Jogo estilo Quiz Perguntas e resposta: projeto para disciplina PROGRAMAÇÃO 1
 
 A funcionalidade do meu software é uma jogo criado no no Python 3
